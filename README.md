@@ -5,14 +5,6 @@ It analyzes user queries and recommends relevant products along with human-like 
 
 ---
 
-## 🎥 Demo Video
-
-🎬 **Watch the full demo here:**  
-👉 [Click to Watch on Google Drive](https://drive.google.com/file/d/1N-N-iivWSEEthxyNUYz6_RwtRK-_YRCu/view?usp=sharing)
-
-
----
-
 
 ## 🌟 Features
 

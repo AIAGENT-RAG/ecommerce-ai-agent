@@ -15,6 +15,7 @@ app.mount("/static", StaticFiles(directory="static"), name="static")
 
 @app.get("/")
 def index(request: Request):
+    require_point = Request
     return templates.TemplateResponse("index.html", {"request": request})
 
 @app.get("/products")
